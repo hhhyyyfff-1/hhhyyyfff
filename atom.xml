@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hhhyyyfff-1.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-03-13T03:09:49.342Z</updated>
+    <title>hhhyyyfff&apos;s Blog</title>
+    <updated>2021-03-13T03:12:39.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hhhyyyfff-1.github.io"/>
     <link rel="self" href="https://hhhyyyfff-1.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://hhhyyyfff-1.github.io/images/avatar.png</logo>
     <icon>https://hhhyyyfff-1.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, hhhyyyfff&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[简单事件的概率]]></title>
         <id>https://hhhyyyfff-1.github.io/post/jian-dan-shi-jian-de-gai-lu/</id>
